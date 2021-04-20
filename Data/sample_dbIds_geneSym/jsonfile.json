@@ -1,0 +1,259 @@
+{
+    "HSP90AB1": [
+        "hsa:3326\tHSP90AB1, D6S182, HSP84, HSP90B, HSPC2, HSPCB; heat shock protein 90 alpha family class B member 1"
+    ],
+    "HRAS": [
+        "hsa:3265\tHRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, KRAS, KRAS2, Ki-Ras, RASH1, RASK2, c-K-ras, c-Ki-ras, p21ras; HRas proto-oncogene, GTPase"
+    ],
+    "PDGFB": [
+        "hsa:5155\tPDGFB, IBGC5, PDGF-2, PDGF2, SIS, SSV, c-sis; platelet derived growth factor subunit B"
+    ],
+    "PGF": [
+        "hsa:5228\tPGF, D12S1900, PGFL, PIGF, PLGF, PlGF-2, SHGC-10760; placental growth factor"
+    ],
+    "RPS6KB1": [
+        "hsa:6198\tRPS6KB1, PS6K, S6K, S6K-beta-1, S6K1, STK14A, p70_S6KA, p70(S6K)-alpha, p70-S6K, p70-alpha; ribosomal protein S6 kinase B1"
+    ],
+    "NFKB1": [
+        "hsa:4790\tNFKB1, CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B1, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50; nuclear factor kappa B subunit 1"
+    ],
+    "FGF12": [
+        "hsa:2257\tFGF12, EIEE47, FGF12B, FHF1; fibroblast growth factor 12"
+    ],
+    "FOXO3": [
+        "hsa:2309\tFOXO3, AF6q21, FKHRL1, FKHRL1P2, FOXO2, FOXO3A; forkhead box O3"
+    ],
+    "PTEN": [
+        "hsa:5728\tPTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1; phosphatase and tensin homolog"
+    ],
+    "CCNE2": [
+        "hsa:9134\tCCNE2, CYCE2; cyclin E2"
+    ],
+    "AKT1": [
+        "hsa:207\tAKT1, AKT, CWS6, PKB, PKB-ALPHA, PRKBA, RAC, RAC-ALPHA; AKT serine/threonine kinase 1"
+    ],
+    "CCNE1": [
+        "hsa:898\tCCNE1, CCNE, pCCNE1; cyclin E1"
+    ],
+    "PDPK1": [
+        "hsa:5170\tPDPK1, PDK1, PDPK2, PDPK2P, PRO0461; 3-phosphoinositide dependent protein kinase 1"
+    ],
+    "EIF4EBP1": [
+        "hsa:1978\tEIF4EBP1, 4E-BP1, 4EBP1, BP-1, PHAS-I; eukaryotic translation initiation factor 4E binding protein 1"
+    ],
+    "CASP9": [
+        "hsa:842\tCASP9, APAF-3, APAF3, ICE-LAP6, MCH6, PPP1R56; caspase 9"
+    ],
+    "PIK3CA": [
+        "hsa:5290\tPIK3CA, CLAPO, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+    ],
+    "NOS3": [
+        "hsa:342977\tNANOS3, NANOS1L, NOS3, ZC2HC12C; nanos C2HC-type zinc finger 3",
+        "hsa:4846\tNOS3, ECNOS, eNOS; nitric oxide synthase 3"
+    ],
+    "GNG2": [
+        "hsa:54331\tGNG2; G protein subunit gamma 2"
+    ],
+    "GNG3": [
+        "hsa:2785\tGNG3; G protein subunit gamma 3"
+    ],
+    "MLST8": [
+        "hsa:64223\tMLST8, GBL, GbetaL, LST8, POP3, WAT1; MTOR associated protein, LST8 homolog"
+    ],
+    "GNG4": [
+        "hsa:2786\tGNG4; G protein subunit gamma 4"
+    ],
+    "INSR": [
+        "hsa:3643\tINSR, CD220, HHF5; insulin receptor"
+    ],
+    "CHUK": [
+        "hsa:1147\tCHUK, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16; conserved helix-loop-helix ubiquitous kinase"
+    ],
+    "GNG7": [
+        "hsa:2788\tGNG7; G protein subunit gamma 7"
+    ],
+    "EGFR": [
+        "hsa:1956\tEGFR, ERBB, ERBB1, HER1, NISBD2, PIG61, mENA; epidermal growth factor receptor"
+    ],
+    "PRKCA": [
+        "hsa:5578\tPRKCA, AAG6, PKC-alpha, PKCA, PKCI+/-, PKCalpha, PRKACA; protein kinase C alpha"
+    ],
+    "PIK3CG": [
+        "hsa:5294\tPIK3CG, PI3CG, PI3K, PI3Kgamma, PIK3, p110gamma, p120-PI3K; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma"
+    ],
+    "HSP90AA1": [
+        "hsa:3320\tHSP90AA1, EL52, HEL-S-65p, HSP86, HSP89A, HSP90A, HSP90N, HSPC1, HSPCA, HSPCAL1, HSPCAL4, HSPN, Hsp103, Hsp89, Hsp90, LAP-2, LAP2; heat shock protein 90 alpha family class A member 1"
+    ],
+    "PIK3CB": [
+        "hsa:5291\tPIK3CB, P110BETA, PI3K, PI3KBETA, PIK3C1; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta"
+    ],
+    "RELA": [
+        "hsa:5970\tRELA, NFKB3, p65; RELA proto-oncogene, NF-kB subunit"
+    ],
+    "PIK3CD": [
+        "hsa:22883\tCLSTN1, ALC-ALPHA, CDHR12, CST-1, CSTN1, PIK3CD, XB31alpha, alcalpha1, alcalpha2; calsyntenin 1",
+        "hsa:5293\tPIK3CD, APDS, IMD14, P110DELTA, PI3K, p110D; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta"
+    ],
+    "TP53": [
+        "hsa:7157\tTP53, BCC7, BMFS5, LFS1, P53, TRP53; tumor protein p53"
+    ],
+    "PKN1": [
+        "hsa:5585\tPKN1, DBK, PAK-1, PAK1, PKN, PKN-ALPHA, PRK1, PRKCL1; protein kinase N1"
+    ],
+    "IL6R": [
+        "hsa:3570\tIL6R, CD126, IL-6R-1, IL-6RA, IL6Q, IL6RA, IL6RQ, gp80; interleukin 6 receptor"
+    ],
+    "CDK4": [
+        "hsa:1019\tCDK4, CMM3, PSK-J3; cyclin dependent kinase 4"
+    ],
+    "IRS1": [
+        "hsa:3667\tIRS1, HIRS-1; insulin receptor substrate 1"
+    ],
+    "RPTOR": [
+        "hsa:57521\tRPTOR, KOG1, Mip1; regulatory associated protein of MTOR complex 1"
+    ],
+    "BCL2L11": [
+        "hsa:10018\tBCL2L11, BAM, BIM, BOD; BCL2 like 11"
+    ],
+    "CDK2": [
+        "hsa:1017\tCDK2, CDKN2, p33(CDK2); cyclin dependent kinase 2"
+    ],
+    "VEGFB": [
+        "hsa:7423\tVEGFB, VEGFL, VRF; vascular endothelial growth factor B"
+    ],
+    "VEGFC": [
+        "hsa:7424\tVEGFC, Flt4-L, LMPH1D, VRP; vascular endothelial growth factor C"
+    ],
+    "CCND1": [
+        "hsa:595\tCCND1, BCL1, D11S287E, PRAD1, U21B31; cyclin D1"
+    ],
+    "GNB2": [
+        "hsa:2783\tGNB2; G protein subunit beta 2"
+    ],
+    "CCND3": [
+        "hsa:896\tCCND3; cyclin D3"
+    ],
+    "GNB1": [
+        "hsa:2782\tGNB1, MRD42; G protein subunit beta 1"
+    ],
+    "VEGFA": [
+        "hsa:7422\tVEGFA, MVCD1, VEGF, VPF; vascular endothelial growth factor A"
+    ],
+    "MDM2": [
+        "hsa:4193\tMDM2, ACTFS, HDMX, hdm2; MDM2 proto-oncogene"
+    ],
+    "GNB4": [
+        "hsa:59345\tGNB4, CMTD1F; G protein subunit beta 4"
+    ],
+    "GNB3": [
+        "hsa:2784\tGNB3, CSNB1H; G protein subunit beta 3"
+    ],
+    "MCL1": [
+        "hsa:4170\tMCL1, BCL2L3, EAT, MCL1-ES, MCL1L, MCL1S, Mcl-1, TM, bcl2-L-3, mcl1/EAT; MCL1, BCL2 family apoptosis regulator"
+    ],
+    "GRB2": [
+        "hsa:2885\tGRB2, ASH, EGFRBP-GRB2, Grb3-3, MST084, MSTP084, NCKAP2; growth factor receptor bound protein 2"
+    ],
+    "GNG13": [
+        "hsa:51764\tGNG13, G(gamma)13, h2-35; G protein subunit gamma 13"
+    ],
+    "BCL2L1": [
+        "hsa:598\tBCL2L1, BCL-XL/S, BCL2L, BCLX, Bcl-X, PPP1R52; BCL2 like 1"
+    ],
+    "CDC37": [
+        "hsa:11140\tCDC37, P50CDC37; cell division cycle 37"
+    ],
+    "KRAS": [
+        "hsa:3845\tKRAS, C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, K-Ras, KI-RAS, KRAS1, KRAS2, NS, NS3, RALD, RASK2, c-Ki-ras2; KRAS proto-oncogene, GTPase",
+        "hsa:3265\tHRAS, C-BAS/HAS, C-H-RAS, C-HA-RAS1, CTLO, H-RASIDX, HAMSV, HRAS1, KRAS, KRAS2, Ki-Ras, RASH1, RASK2, c-K-ras, c-Ki-ras, p21ras; HRas proto-oncogene, GTPase"
+    ],
+    "INS": [
+        "hsa:3630\tINS, IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10; insulin"
+    ],
+    "BCL2": [
+        "hsa:596\tBCL2, Bcl-2, PPP1R50; BCL2, apoptosis regulator"
+    ],
+    "SOS1": [
+        "hsa:6654\tSOS1, GF1, GGF1, GINGF, HGF, NS4, SOS-1; SOS Ras/Rac guanine nucleotide exchange factor 1"
+    ],
+    "RAC1": [
+        "hsa:6035\tRNASE1, RAC1, RIB1, RNS1; ribonuclease A family member 1, pancreatic",
+        "hsa:5879\tRAC1, MIG5, MRD48, Rac-1, TC-25, p21-Rac1; Rac family small GTPase 1"
+    ],
+    "EGF": [
+        "hsa:1950\tEGF, HOMG4, URG; epidermal growth factor"
+    ],
+    "IL6": [
+        "hsa:3569\tIL6, BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6; interleukin 6"
+    ],
+    "FLT1": [
+        "hsa:2321\tFLT1, FLT, FLT-1, VEGFR-1, VEGFR1; fms related tyrosine kinase 1"
+    ],
+    "FLT4": [
+        "hsa:2324\tFLT4, FLT-4, FLT41, LMPH1A, PCL, VEGFR-3, VEGFR3; fms related tyrosine kinase 4"
+    ],
+    "YWHAB": [
+        "hsa:7529\tYWHAB, GW128, HEL-S-1, HS1, KCIP-1, YWHAA; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta"
+    ],
+    "RAF1": [
+        "hsa:6037\tRNASE3, ECP, RAF1, RNS3; ribonuclease A family member 3",
+        "hsa:5894\tRAF1, CMD1NN, CRAF, NS5, Raf-1, c-Raf; Raf-1 proto-oncogene, serine/threonine kinase"
+    ],
+    "IGF1": [
+        "hsa:3479\tIGF1, IGF, IGF-I, IGFI, MGF; insulin like growth factor 1"
+    ],
+    "RPS6": [
+        "hsa:6194\tRPS6, S6; ribosomal protein S6"
+    ],
+    "BRCA1": [
+        "hsa:672\tBRCA1, BRCAI, BRCC1, BROVCA1, FANCS, IRIS, PNCA4, PPP1R53, PSCP, RNF53; BRCA1, DNA repair associated"
+    ],
+    "KDR": [
+        "hsa:3791\tKDR, CD309, FLK1, VEGFR, VEGFR2; kinase insert domain receptor"
+    ],
+    "GNGT1": [
+        "hsa:2792\tGNGT1, GNG1; G protein subunit gamma transducin 1"
+    ],
+    "HSP90B1": [
+        "hsa:7184\tHSP90B1, ECGP, GP96, GRP94, HEL-S-125m, HEL35, TRA1; heat shock protein 90 beta family member 1"
+    ],
+    "GNGT2": [
+        "hsa:2793\tGNGT2, G-GAMMA-8, G-GAMMA-C, GNG8, GNG9, GNGT8; G protein subunit gamma transducin 2"
+    ],
+    "CDKN1A": [
+        "hsa:1026\tCDKN1A, CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1; cyclin dependent kinase inhibitor 1A"
+    ],
+    "CDKN1B": [
+        "hsa:1027\tCDKN1B, CDKN4, KIP1, MEN1B, MEN4, P27KIP1; cyclin dependent kinase inhibitor 1B"
+    ],
+    "EIF4E": [
+        "hsa:1977\tEIF4E, AUTS19, CBP, EIF4E1, EIF4EL1, EIF4F, eIF-4E; eukaryotic translation initiation factor 4E"
+    ],
+    "TSC1": [
+        "hsa:7248\tTSC1, LAM, TSC; TSC complex subunit 1"
+    ],
+    "ITGA7": [
+        "hsa:3679\tITGA7; integrin subunit alpha 7"
+    ],
+    "IKBKG": [
+        "hsa:8517\tIKBKG, AMCBX1, FIP-3, FIP3, Fip3p, IKK-gamma, IKKAP1, IKKG, IMD33, IP, IP1, IP2, IPD2, NEMO, ZC2HC9; inhibitor of nuclear factor kappa B kinase subunit gamma"
+    ],
+    "TSC2": [
+        "hsa:7249\tTSC2, LAM, PPP1R160, TSC4; TSC complex subunit 2"
+    ],
+    "JAK1": [
+        "hsa:3716\tJAK1, JAK1A, JAK1B, JTK3; Janus kinase 1"
+    ],
+    "RHEB": [
+        "hsa:6009\tRHEB, RHEB2; Ras homolog, mTORC1 binding"
+    ],
+    "JAK2": [
+        "hsa:3717\tJAK2, JTK10, THCYT3; Janus kinase 2"
+    ],
+    "MTOR": [
+        "hsa:2475\tMTOR, FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS; mechanistic target of rapamycin kinase"
+    ],
+    "IKBKB": [
+        "hsa:3551\tIKBKB, IKK-beta, IKK2, IKKB, IMD15, NFKBIKB; inhibitor of nuclear factor kappa B kinase subunit beta"
+    ]
+}
